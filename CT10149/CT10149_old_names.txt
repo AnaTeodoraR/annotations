@@ -1,0 +1,6 @@
+0 CT 0.625mm
+1 CT 0.625mm-2
+2 CT 0.625mm-3
+3 CT 5mm
+4 CT 5mm-2
+5 CT 5mm-3

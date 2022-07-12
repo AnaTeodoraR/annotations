@@ -1,0 +1,4 @@
+0 CT C
+1 CT C THIN
+2 CT Plain
+3 CT PLAIN THIN

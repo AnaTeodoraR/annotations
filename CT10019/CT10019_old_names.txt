@@ -1,0 +1,4 @@
+0 CT 4cc sec 150cc D3D on
+1 CT 4cc sec 150cc D3D on-2
+2 CT Plain
+3 CT PLAIN THIN

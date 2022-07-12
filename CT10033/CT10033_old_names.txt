@@ -1,0 +1,2 @@
+0 CT 4cc sec 150cc D3D on
+1 CT Plain

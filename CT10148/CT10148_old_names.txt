@@ -1,0 +1,7 @@
+0 CT 55mm Plain
+1 CT POST CONTRAST
+2 CT POST CONTRAST-2
+3 CT POST CONTRAST-3
+4 CT Thin Plain
+5 CT Thin Plain-2
+6 CT Thin Plain-3

@@ -1,0 +1,3 @@
+0 CT BONE
+1 CT Plain
+2 CT PLAIN THIN
